@@ -1,16 +1,15 @@
-## Hi there 👋
+<!--Level 1: Simple bio and stats -->
 
-<!--
-**szg-zone/szg-zone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Sharvin!
 
-Here are some ideas to get you started:
+👨‍💻 Computer Science Student sharing about my journey and learnings in tech<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Studing [Computer Science](https://youtu.be/Dd4zfmY-aA?si=3NnnJ-151s7johlv) at Scaler School of Technology<br/>
+
+🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
+
+🌷 #learninginpublic in my [Digital Garden](https://magdelinehuang.com/)<br/>
+
+💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2025/06/hello-stranger/)!<br/>
+
+
