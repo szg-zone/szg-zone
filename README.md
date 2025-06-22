@@ -1,4 +1,4 @@
-<!--Level 3: Fixing the READ Me  -->
+<!--Level 3: Fixing the READ Me Update  -->
 
 # 👋 HI, I'm Sharvin!
 👨‍💻 Computer Science Student sharing about my journey and learnings in tech<br/>
