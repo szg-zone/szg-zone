@@ -23,7 +23,36 @@
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=szg-zone&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=szg-zone&theme=radical" />
+    </td>
+    <td>
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/szg-zone?cardType=level&theme=radical&preferLogin=false" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szg-zone&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+
+<!--### Detailed Languages
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szg-zone&langs_count=20&theme=radical" alt="SZG Zone's Languages" />
+</div>
+
+<div align="center">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=szg-zone&theme=radical&layout=compact" alt="SZG Zone's GitHub Contributions" />
+</div>
+
+---
+-->
+
+Created with ❤️ by [SZG Zone](https://github.com/szg-zone) in 2025.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
